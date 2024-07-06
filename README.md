@@ -29,4 +29,28 @@ Our dataset contains information about 891 passengers, including:
 
 ![survivors by gender](https://github.com/joelkaku/Titanic-Survival-Machine-Learning-Project/assets/131392907/981ac2d6-7b95-46e0-b46a-7ddd2ce4bc0d)
 - On visualizing the survivors by gender, it is observed that more males were deceased and more females survived.
+- We can infer from this visual that preference was given to females when it came to handing out life jackets and life boats
+
+
+![survivors by Pclass](https://github.com/joelkaku/Titanic-Survival-Machine-Learning-Project/assets/131392907/d3110ecc-5c96-4a14-8181-2631620652b2)
+- An intriguing insight is seen here where majority of the deceased were in the third class whilst majority of the survivors were rich people in the first class.
+
+- Other interesting insights are seen below together with the machine learning models.
+- Download the notebook for a full view of the project
+
+![Age distribution](https://github.com/joelkaku/Titanic-Survival-Machine-Learning-Project/assets/131392907/6910ffc6-a818-4ea6-bc1d-bbcd7cc4f07b)
+
+![Siblings and spouses](https://github.com/joelkaku/Titanic-Survival-Machine-Learning-Project/assets/131392907/4e56448e-5180-4ad8-bf47-d9f7d394505e)
+
+![Survival by parentschild](https://github.com/joelkaku/Titanic-Survival-Machine-Learning-Project/assets/131392907/41c48823-e1f2-4718-aeae-344ded6b3340)
+
+![fares distribution](https://github.com/joelkaku/Titanic-Survival-Machine-Learning-Project/assets/131392907/2761b991-138d-404d-8b96-8346dae09e43)
+
+![ML imports](https://github.com/joelkaku/Titanic-Survival-Machine-Learning-Project/assets/131392907/75f2ca00-1caa-426e-a5f1-4bc12b496b22)
+
+![logistc reg 2](https://github.com/joelkaku/Titanic-Survival-Machine-Learning-Project/assets/131392907/1d4adf90-46e0-4b1c-b387-fb877169e911)
+
+![random forest](https://github.com/joelkaku/Titanic-Survival-Machine-Learning-Project/assets/131392907/1e7374fa-2baf-49e7-9716-aefadcaba15a)
+
+![decision tree](https://github.com/joelkaku/Titanic-Survival-Machine-Learning-Project/assets/131392907/a55d69b6-547e-4a7b-add5-89784f6c0601)
 
